@@ -1,13 +1,13 @@
 //
-//  CustomCellUITests.swift
-//  CustomCellUITests
+//  CellCustomTestUITests.swift
+//  CellCustomTestUITests
 //
-//  Created by Cleís Aurora Pereira on 28/09/20.
+//  Created by Cleís Aurora Pereira on 29/09/20.
 //
 
 import XCTest
 
-class CustomCellUITests: XCTestCase {
+class CellCustomTestUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
